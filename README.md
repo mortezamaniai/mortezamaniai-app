@@ -1,4 +1,4 @@
-# MortezaManiai — (https://mortezamaniai-app.vercel.app/)
+# MortezaManiai — شعر → تصویر (PWA + زرین‌پال)
 
 این ریپو شامل اپ Next.js است که به‌عنوان PWA نصب می‌شود و از OpenAI برای تولید تصویر و زرین‌پال برای پرداخت اشتراک استفاده می‌کند.
 
